@@ -115,5 +115,10 @@ ul li span{
 }
 .row input{
     width:100px;
+    margin-right: 10px;
+
+}
+.row button{
+padding:10px 30px;
 }
 }
